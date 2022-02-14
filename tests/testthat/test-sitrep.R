@@ -1,7 +1,5 @@
 test_that("test sitrep works", {
-  expect_true(sitrep(silent = TRUE, path = "./conf_pass.envstat"))
-})
-
-test_that("test sitrep fails", {
-  expect_false(sitrep(silent = TRUE, path = "./conf_fail.envstat"))
+  Sys.setenv("TEST_ENV_VAR"="set")
+  expect_true(sitrep(silent = TRUE, path = "./test-conf.envstat"))
+  Sys.unsetenv("TEST_ENV_VAR")
 })

@@ -1,0 +1,2 @@
+env_vars:
+  - TEST_ENV_VAR

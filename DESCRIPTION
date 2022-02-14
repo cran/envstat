@@ -1,6 +1,6 @@
 Package: envstat
 Title: Configurable Reporting on your External Compute Environment
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     person(given = "Mark",
            family = "Sellors",
@@ -20,8 +20,8 @@ Imports: cli, httr2, rstudioapi, yaml
 Suggests: covr, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-02-09 11:57:44 UTC; sellorm
+Packaged: 2022-02-14 00:51:03 UTC; sellorm
 Author: Mark Sellors [aut, cre]
 Maintainer: Mark Sellors <rstats@5vcc.com>
 Repository: CRAN
-Date/Publication: 2022-02-09 19:30:02 UTC
+Date/Publication: 2022-02-14 09:00:08 UTC
