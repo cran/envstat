@@ -1,12 +1,12 @@
-bc30e0dfa7bc59e7788b285990709df5 *DESCRIPTION
+af0a2e88c7df6d134118b3c72cb823c1 *DESCRIPTION
 bb8e8c80f91f8bb7c2f51886c001a41a *LICENSE
 dfaf11c933f95188ac92f13c642747f3 *NAMESPACE
-171c9503319ab1f6236bb88d8bc0d48c *NEWS.md
+d3ec1b4061c9fc758fff83bc68e0d426 *NEWS.md
 8bf8041336c9f8d61be14261b9599fb1 *R/check_env_vars.R
 d5d2c07d0a44f832edffee429cb59221 *R/check_files_and_dirs.R
 e0cc16aa895fc0ec193037be4abf0e87 *R/check_rstudio.R
 93911794d93835d60181328a82a91429 *R/read_config.R
-3b109f7b21c49606c9568a8529cc1d70 *R/repos_available.R
+5852076d87d958086d82d34657941a6a *R/repos_available.R
 6a38b988cd2e50670aad39f91565ad7b *R/sitrep.R
 90a2461fd44b35a5a654f418f86a48ef *R/use_envstat.R
 b4584bf33e8a5448ad06f48481e37064 *R/utils.R
@@ -23,7 +23,7 @@ b74d933efd8a3e69d07130279c4fe764 *tests/testthat/test-check_files_and_dirs.R
 6b9c5ccd0a57e3e7537ca875d334703f *tests/testthat/test-check_rstudio.R
 fbd188ba8d3ebd0ac347b0d95053ffcc *tests/testthat/test-conf.envstat
 408c3de3633a3bbbdef73e9f10626679 *tests/testthat/test-read_config.R
-235a65491ecc14e5d24a33fb16d1e3ff *tests/testthat/test-repos_available.R
+299a8404b8aae9ce1f64cdf101685c74 *tests/testthat/test-repos_available.R
 b7003d800ef23abb2de504ddaeee23b1 *tests/testthat/test-sitrep.R
 49b9fc17bd5d3b8022e073586d3f49a8 *tests/testthat/test-use_envstat.R
 3b2c17ada533206c37a229b3843f778a *tests/testthat/test-utils.R
